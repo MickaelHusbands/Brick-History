@@ -1,0 +1,1 @@
+Lego  enthusiasts often struggle to track their historical collections and find technical details (part counts, year of release) for vintage sets. Most official databases are commercialized, making it difficult for hobbyists to maintain a "digital vault" of their personal builds with custom notes on thecondition or build process of their sets.
